@@ -8,8 +8,6 @@ Windows installers for the RevSage desktop app. This repository holds releases o
 2. Under **Assets**, download the file ending in `-setup.exe`.
 3. Run it and follow the installer.
 
-Installed copies update themselves automatically when a new version is published here.
-
 Requirements: Windows 10 or 11 (64-bit).
 
 ## "Windows protected your PC"
